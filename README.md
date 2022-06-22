@@ -36,4 +36,7 @@ interface LessonProps{
 - Do mesmo modo precisamos criar uma interface para o tipo de retorno das query ao usar a consulta a API com typescript.
 
 ## npm i dayjs | npm i date-fns
-- Muito utilizadas para trabalhar com datas no javascript
+- Muito utilizadas para trabalhar com datas no javascript.<br>
+Usada na aplicação -> date-fns:<br>
+isPast: identifica quando uma data ja passou.
+format: formatação de data, precisa passar dois parâmetros
