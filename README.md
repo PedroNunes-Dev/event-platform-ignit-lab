@@ -20,7 +20,7 @@
 - Diferente do HTML, os SVG's tem comportamento diferente no React, um dica é usar um site
 chamado: https://svg2jsx.com/ para que possamos fazer a conversão para o padrão adequado.
 
-## fosfore
+## Phosphor
 - Biblioteca de ícones: https://phosphoricons.com/
 
 ## Propriedades
@@ -53,3 +53,8 @@ npm i @vime/core @vime/react --force
 
 ## npm i classnames
 - Lib que ajuda gerenciar condicionais no css quando algo esta ativo.
+
+## GraphQl Code Generator
+- npm i @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo -D
+- npm i @graphql-codegen/cli -D
+- npm run codegen -> para configurar o graphql
