@@ -41,7 +41,7 @@ Usada na aplicação -> date-fns:<br>
 isPast: identifica quando uma data ja passou.<br>
 format: formatação de data, precisa passar dois parâmetros
 
-##Vimejs
+## Vimejs
 - Para otimizar o uso de Videos em uma aplicação, esta biblioteca não suporta o React18 por conta de uma parte chamada Stream Server Side Render, mas podemos 
 forçar a instalação com:
 ```
@@ -50,3 +50,6 @@ npm i @vime/core @vime/react --force
 
 ## npm i react-router-dom
 - Bilbioteca para lidar com roteamento dentro de um aplicação React
+
+## npm i classnames
+- Lib que ajuda gerenciar condicionais no css quando algo esta ativo.
